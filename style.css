@@ -1,4 +1,4 @@
-body {
+body,h6 {
     font-family: "Montserrat";
     scroll-behavior: smooth;
     scroll-padding: 60rem;
