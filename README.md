@@ -3,7 +3,7 @@ Relanto AI Assignment created by:
 Team Row 2:-
 * Ishita Sharma
 * Pranshula P
-* Rajat A
+* Rajat Dharmendra Anchan
 * Shiva Yadav
 * Yash A
 * Ashutosh A
